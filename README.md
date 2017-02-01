@@ -1,1 +1,2 @@
-# LearningGit
+Dominic Deckys
+Lab 3
